@@ -7,6 +7,7 @@ Terms used across the guides, in alphabetical order.
 | 80/20 rule | The observation that roughly 80% of effects come from 20% of causes; see [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
 | Availability bias | Judging how common something is by how easily examples come to mind |
 | Affinity diagram | Grouping notes or insights by theme to find patterns |
+| After action review (AAR) | A short review right after an event comparing expectation with result |
 | Alternative | A different way of reaching the same goal, not a small variation of the same idea |
 | Analogy | A comparison between two things that share a structure, used to transfer a solution |
 | Balancing loop | A feedback loop that resists change and moves a system towards a target |
@@ -19,12 +20,14 @@ Terms used across the guides, in alphabetical order.
 | Backcasting | Planning that starts from a desired future and works backwards to the present |
 | Bias (cognitive) | A systematic pattern in judgment that departs from careful reasoning |
 | Business model | How an organisation creates, delivers and captures value |
+| Blame-free review | A review that looks at the system and decisions, not at who to blame |
 | Brainstorming | Generating many ideas without judging them, then evaluating afterwards |
 | Brainwriting | Generating ideas in writing instead of aloud; see [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) |
 | Causal loop diagram | A diagram of variables linked by arrows with + or - signs, used to show feedback |
 | Channel | The way a business reaches and serves its customers |
 | Cause and effect diagram | Another name for the [Fishbone Diagram](../methods/root-cause/fishbone.md) |
 | Confidence (in RICE) | A percentage showing how sure you are about the estimates behind a score |
+| Calibration | How closely your confidence matches how often you are right |
 | Confirmation bias | Favouring information that supports what you already believe |
 | Customer segment | A group of customers with similar needs, behaviours or characteristics |
 | Convention | A habit or standard way of doing things, which may not be a fact |
@@ -36,6 +39,7 @@ Terms used across the guides, in alphabetical order.
 | Delegate | Hand a task to someone else with clear instructions |
 | Effort | The total work an item needs, in person-time or cost |
 | Diverge / converge | Opening up to many options, then narrowing down to a choice |
+| Decision journal | A written record of decisions, reasons and expectations, reviewed later |
 | Divergent thinking | Producing many different ideas or options |
 | Convergent thinking | Narrowing options down to a choice |
 | Expected value (EV) | The probability-weighted average of the possible outcomes of a choice |
@@ -45,8 +49,10 @@ Terms used across the guides, in alphabetical order.
 | HMW (How Might We) | A question format that frames a challenge openly; see [How Might We](../methods/ideation/how-might-we.md) |
 | Gain (customer) | An outcome or benefit a customer wants |
 | Hanlon's razor | Do not assume malice where neglect or error is enough to explain something |
+| Hindsight bias | Believing after the fact that an outcome was predictable |
 | Groupthink | A group's drive for agreement overriding honest assessment |
 | Heuristic | A mental shortcut that is usually good enough but can fail predictably |
+| Jargon | Specialised words that hide whether you really understand an idea |
 | Hat (thinking hat) | One of six thinking modes in [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
 | Hindsight | Seeing why something happened after the fact; a pre-mortem borrows it before the fact |
 | Net present value (NPV) | The value in today's money of all future benefits minus costs |
@@ -69,6 +75,7 @@ Terms used across the guides, in alphabetical order.
 | Parameter | An independent feature or choice that defines part of a solution |
 | OODA loop | Observe, orient, decide, act: a repeating decision cycle developed by John Boyd |
 | Objective (in OKR) | An inspiring statement of what you want to achieve in a period |
+| Prime directive (retrospective) | The assumption that everyone did the best they could with what they knew at the time |
 | Order of magnitude | A rough size by factors of ten |
 | Opportunity cost | What you give up by choosing one option over another |
 | One-way door / two-way door | A decision that is hard to reverse versus one that is easy to reverse |
@@ -81,8 +88,10 @@ Terms used across the guides, in alphabetical order.
 | Prioritisation | Deciding what to do first, and what not to do |
 | Red team | A group assigned to attack a plan as an adversary would |
 | Provocation | See PO |
+| Retrospective | A regular team meeting to look back and agree on improvements |
 | Reinforcing loop | A feedback loop that amplifies change, producing growth or collapse |
 | Persona | A fictional but research-based profile of a type of user |
+| Resulting | Judging a decision only by its outcome, ignoring luck |
 | Reframing | Restating a problem from another level or point of view |
 | Reach (in RICE) | How many people or events an item affects in a period |
 | Root cause | The underlying cause which, if fixed, prevents the problem from recurring |
@@ -104,4 +113,5 @@ Terms used across the guides, in alphabetical order.
 | Value proposition | The value an offer promises to a specific customer segment |
 | Vital few | The small number of causes behind most of an effect |
 | Weight | A number showing how much a criterion matters |
+| Wheel of life | A self-assessment circle for rating satisfaction in areas of life |
 | Worksheet | A fill-in page for applying a method |

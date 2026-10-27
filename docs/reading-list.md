@@ -49,6 +49,11 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Porter's Five Forces | Michael E. Porter, "The Five Competitive Forces That Shape Strategy", *Harvard Business Review* (January 2008) |
 | PESTEL Analysis | Francis J. Aguilar, *Scanning the Business Environment* (1967) |
 | Business Model and Lean Canvas | Alexander Osterwalder and Yves Pigneur, *Business Model Generation* (2010); Ash Maurya, *Running Lean* (2012) |
+| Retrospective | Norman Kerth, *Project Retrospectives* (2001); Esther Derby and Diana Larsen, *Agile Retrospectives* (2006) |
+| After Action Review | US Army, *A Leader's Guide to After-Action Reviews*, TC 25-20 (1993) |
+| Feynman Technique | Richard Feynman, *The Feynman Lectures on Physics* (1963) for his approach to explaining; the four-step method is a popular summary, not Feynman's own published method |
+| Wheel of Life | Widely used in coaching; its origin is often attributed to Paul J. Meyer in the 1960s |
+| Decision Journal | Peter Drucker, "Managing Oneself", *Harvard Business Review* (1999), on feedback analysis; Annie Duke, *Thinking in Bets* (2018) |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |
 | Inversion | Charlie Munger, talks collected in *Poor Charlie's Almanack* (2005) |

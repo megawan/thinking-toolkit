@@ -118,6 +118,16 @@ Find your situation, then open the method that fits. If several are listed, the 
 | What outside trends and rules could affect us? | [PESTEL Analysis](../methods/strategy-and-risk/pestel-analysis.md) |
 | I need the whole business on one page | [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) |
 
+## I want to learn from what happened
+
+| Situation | Try |
+| --- | --- |
+| The team wants to improve how it works together | [Retrospective](../methods/reflection-and-learning/retrospective.md) |
+| An event has just finished and I want to capture the lessons | [After Action Review](../methods/reflection-and-learning/after-action-review.md) |
+| I want to be sure I really understand something | [Feynman Technique](../methods/reflection-and-learning/feynman-technique.md) |
+| I want to take stock of my life and choose what to work on | [Wheel of Life](../methods/reflection-and-learning/wheel-of-life.md) |
+| I want to get better at judging important decisions | [Decision Journal](../methods/reflection-and-learning/decision-journal.md) |
+
 ## By category
 
 | Category | Methods |
@@ -129,5 +139,6 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Planning and goals | [SMART Goals](../methods/planning/smart-goals.md), [OKR](../methods/planning/okr.md), [Backcasting](../methods/planning/backcasting.md) |
 | Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md), [Porter's Five Forces](../methods/strategy-and-risk/porters-five-forces.md), [PESTEL Analysis](../methods/strategy-and-risk/pestel-analysis.md), [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) |
 | Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md), [Second-order Thinking](../methods/mental-models/second-order-thinking.md), [Occam's and Hanlon's Razor](../methods/mental-models/occams-and-hanlons-razor.md), [Fermi Estimation](../methods/mental-models/fermi-estimation.md), [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md), [Systems Thinking](../methods/mental-models/systems-thinking.md) |
+| Reflection and learning | [Retrospective](../methods/reflection-and-learning/retrospective.md), [After Action Review](../methods/reflection-and-learning/after-action-review.md), [Feynman Technique](../methods/reflection-and-learning/feynman-technique.md), [Wheel of Life](../methods/reflection-and-learning/wheel-of-life.md), [Decision Journal](../methods/reflection-and-learning/decision-journal.md) |
 | Design and product | [Jobs To Be Done](../methods/design-and-product/jobs-to-be-done.md), [Design Thinking](../methods/design-and-product/design-thinking.md), [Double Diamond](../methods/design-and-product/double-diamond.md), [Empathy Map](../methods/design-and-product/empathy-map.md), [User Journey Map](../methods/design-and-product/user-journey-map.md), [Value Proposition Canvas](../methods/design-and-product/value-proposition-canvas.md) |
 | Critical thinking | [Steel-manning](../methods/critical-thinking/steel-manning.md), [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md), [Red Team and Devil's Advocate](../methods/critical-thinking/red-team-and-devils-advocate.md), [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md), [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) |

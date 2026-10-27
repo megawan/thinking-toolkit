@@ -29,6 +29,7 @@ CATEGORIES = {
     "mental-models": "Mental models",
     "critical-thinking": "Critical thinking",
     "design-and-product": "Design and product",
+    "reflection-and-learning": "Reflection and learning",
 }
 # Companion folder -> label used in the index.
 EXTRAS = {"cheatsheets": "Cheat sheet", "worksheets": "Worksheet", "case-studies": "Case study"}

@@ -229,6 +229,46 @@ Sequence: PESTEL Analysis → Porter's Five Forces → SWOT Analysis → Busines
 | Shape the model | [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) | A model that responds to what you found |
 | De-risk | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | Risks to the plan and responses |
 
+## 21. Learning from a project
+
+Sequence: After Action Review → Five Whys → Retrospective
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Capture quickly | [After Action Review](../methods/reflection-and-learning/after-action-review.md) | Plan versus actual, with first lessons |
+| Dig | [Five Whys](../methods/root-cause/five-whys.md) | The root cause of the biggest gap |
+| Improve the team | [Retrospective](../methods/reflection-and-learning/retrospective.md) | A few owned changes to how the team works |
+
+## 22. Getting better at decisions
+
+Sequence: Decision Matrix → Decision Journal → Cognitive Biases
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Decide | [Decision Matrix](../methods/decision-making/decision-matrix.md) | A reasoned choice |
+| Record | [Decision Journal](../methods/reflection-and-learning/decision-journal.md) | Reasons and expectations written before the outcome |
+| Review | [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md) | Patterns of error found across entries |
+
+## 23. Learning a new subject
+
+Sequence: Mind Mapping → Feynman Technique → Socratic Questioning
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Map | [Mind Mapping](../methods/ideation/mind-mapping.md) | The shape of the subject and its parts |
+| Explain | [Feynman Technique](../methods/reflection-and-learning/feynman-technique.md) | Gaps in understanding, filled one by one |
+| Test | [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md) | Deeper understanding through questions from a partner |
+
+## 24. A personal review
+
+Sequence: Wheel of Life → SMART Goals → Eisenhower Matrix
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Take stock | [Wheel of Life](../methods/reflection-and-learning/wheel-of-life.md) | The areas that need attention |
+| Set goals | [SMART Goals](../methods/planning/smart-goals.md) | Clear goals for one or two areas |
+| Make time | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md) | Calendar slots for the important, not urgent work |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice
