@@ -40,6 +40,15 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Red Team and Devil's Advocate | Micah Zenko, *Red Team* (2015) |
 | Cognitive Biases | Amos Tversky and Daniel Kahneman, "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974); Daniel Kahneman, *Thinking, Fast and Slow* (2011) |
 | Ladder of Inference | Chris Argyris; Peter Senge and others, *The Fifth Discipline Fieldbook* (1994) |
+| Jobs To Be Done | Clayton Christensen, Taddy Hall, Karen Dillon and David Duncan, *Competing Against Luck* (2016); Tony Ulwick, *What Customers Want* (2005) |
+| Design Thinking | Tim Brown, *Change by Design* (2009); the Stanford d.school's published guides to the five stages |
+| Double Diamond | The British Design Council's published description of the Double Diamond (2005, updated in 2019) |
+| Empathy Map | Dave Gray, Sunni Brown and James Macanufo, *Gamestorming* (2010) |
+| User Journey Map | G. Lynn Shostack's work on service blueprints (1980s) as an ancestor; practical guides from service-design practice |
+| Value Proposition Canvas | Alexander Osterwalder, Yves Pigneur, Greg Bernarda and Alan Smith, *Value Proposition Design* (2014) |
+| Porter's Five Forces | Michael E. Porter, "The Five Competitive Forces That Shape Strategy", *Harvard Business Review* (January 2008) |
+| PESTEL Analysis | Francis J. Aguilar, *Scanning the Business Environment* (1967) |
+| Business Model and Lean Canvas | Alexander Osterwalder and Yves Pigneur, *Business Model Generation* (2010); Ash Maurya, *Running Lean* (2012) |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |
 | Inversion | Charlie Munger, talks collected in *Poor Charlie's Almanack* (2005) |

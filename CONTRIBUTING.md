@@ -27,6 +27,7 @@ New methods are welcome.
 | `strategy-and-risk` | Strategy and risk |
 | `mental-models` | Mental models |
 | `critical-thinking` | Critical thinking |
+| `design-and-product` | Design and product |
 
 To add a category, create the folder and add it to `CATEGORIES` in `scripts/toolkit.py`.
 

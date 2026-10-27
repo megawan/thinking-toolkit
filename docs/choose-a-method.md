@@ -99,6 +99,25 @@ Find your situation, then open the method that fits. If several are listed, the 
 | I suspect my judgment was affected by a bias | [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md) |
 | I am sure about someone's motives and want to check | [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) |
 
+## I am designing for people
+
+| Situation | Try |
+| --- | --- |
+| I do not know why customers choose or leave | [Jobs To Be Done](../methods/design-and-product/jobs-to-be-done.md) |
+| The problem is unclear and involves human behaviour | [Design Thinking](../methods/design-and-product/design-thinking.md) |
+| The team jumps to solutions or never decides | [Double Diamond](../methods/design-and-product/double-diamond.md) |
+| I have research notes and need a shared picture of the user | [Empathy Map](../methods/design-and-product/empathy-map.md) |
+| The experience crosses many steps and teams | [User Journey Map](../methods/design-and-product/user-journey-map.md) |
+| I want to check that my offer matches what the customer needs | [Value Proposition Canvas](../methods/design-and-product/value-proposition-canvas.md) |
+
+## I am looking at a market or a business
+
+| Situation | Try |
+| --- | --- |
+| Is this industry attractive, and where does the pressure come from? | [Porter's Five Forces](../methods/strategy-and-risk/porters-five-forces.md) |
+| What outside trends and rules could affect us? | [PESTEL Analysis](../methods/strategy-and-risk/pestel-analysis.md) |
+| I need the whole business on one page | [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) |
+
 ## By category
 
 | Category | Methods |
@@ -108,6 +127,7 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md), [Cost-Benefit Analysis](../methods/decision-making/cost-benefit-analysis.md), [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md), [Regret Minimization](../methods/decision-making/regret-minimization.md), [10-10-10](../methods/decision-making/ten-ten-ten.md), [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md), [OODA Loop](../methods/decision-making/ooda-loop.md) |
 | Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md), [MoSCoW](../methods/prioritisation/moscow.md), [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md), [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) |
 | Planning and goals | [SMART Goals](../methods/planning/smart-goals.md), [OKR](../methods/planning/okr.md), [Backcasting](../methods/planning/backcasting.md) |
-| Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
+| Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md), [Porter's Five Forces](../methods/strategy-and-risk/porters-five-forces.md), [PESTEL Analysis](../methods/strategy-and-risk/pestel-analysis.md), [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) |
 | Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md), [Second-order Thinking](../methods/mental-models/second-order-thinking.md), [Occam's and Hanlon's Razor](../methods/mental-models/occams-and-hanlons-razor.md), [Fermi Estimation](../methods/mental-models/fermi-estimation.md), [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md), [Systems Thinking](../methods/mental-models/systems-thinking.md) |
+| Design and product | [Jobs To Be Done](../methods/design-and-product/jobs-to-be-done.md), [Design Thinking](../methods/design-and-product/design-thinking.md), [Double Diamond](../methods/design-and-product/double-diamond.md), [Empathy Map](../methods/design-and-product/empathy-map.md), [User Journey Map](../methods/design-and-product/user-journey-map.md), [Value Proposition Canvas](../methods/design-and-product/value-proposition-canvas.md) |
 | Critical thinking | [Steel-manning](../methods/critical-thinking/steel-manning.md), [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md), [Red Team and Devil's Advocate](../methods/critical-thinking/red-team-and-devils-advocate.md), [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md), [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) |
