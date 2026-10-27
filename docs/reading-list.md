@@ -19,7 +19,7 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | SMART Goals | George T. Doran, "There's a S.M.A.R.T. Way to Write Management's Goals and Objectives", *Management Review* (November 1981) |
 | Backcasting | John B. Robinson, "Energy backcasting: A proposed method of policy analysis", *Energy Policy* (1982) |
 | Cost-Benefit Analysis | Jules Dupuit's 1840s writing on public works is the usual starting point; for practice, see a standard public-finance or engineering-economics textbook |
-| Regret Minimization | Jeff Bezos has described the framework in interviews about his 1994 decision to leave his job and start Amazon |
+| Regret Minimization | Jeff Bezos has described the framework in interviews about his decision to leave his job and start Amazon; a retelling appears in Brian Christian and Tom Griffiths, *Algorithms to Live By* (2016) |
 | 10-10-10 | Suzy Welch, *10-10-10: A Life-Transforming Idea* (2009) |
 | One-way and Two-way Doors | Jeff Bezos, Amazon shareholder letter for 2015 (published 2016) |
 | OODA Loop | John Boyd's briefing "Patterns of Conflict" (1986) and "The Essence of Winning and Losing" (1996); Robert Coram, *Boyd: The Fighter Pilot Who Changed the Art of War* (2002) |

@@ -63,12 +63,19 @@ def guides():
     return [parse(p) for p in sorted(METHODS.glob("*/*.md"))]
 
 
+def extra_label(folder, slug, label):
+    """Case studies backed by sources are marked as documented in the index."""
+    if folder == "case-studies" and "\n## Sources" in (ROOT / folder / f"{slug}.md").read_text(encoding="utf-8"):
+        return f"{label} (documented)"
+    return label
+
+
 def index_table(items):
     rows = ["| Method | Category | In short | Extras |", "| --- | --- | --- | --- |"]
     order = list(CATEGORIES)
     key = lambda g: (order.index(g["folder"]) if g["folder"] in order else len(order), g["title"] or "")
     for g in sorted(items, key=key):
-        extras = " · ".join(f"[{label}]({d}/{g['slug']}.md)" for d, label in EXTRAS.items())
+        extras = " · ".join(f"[{extra_label(d, g['slug'], label)}]({d}/{g['slug']}.md)" for d, label in EXTRAS.items())
         rows.append(
             f"| [{g['title']}](methods/{g['folder']}/{g['slug']}.md) | {g['category']} | {g['summary']} | {extras} |"
         )
@@ -99,8 +106,16 @@ def problems(items):
             companion = ROOT / folder / f"{g['slug']}.md"
             if not companion.exists():
                 errors.append(f"{name}: missing {folder}/{g['slug']}.md")
-            elif f"methods/{g['folder']}/{g['slug']}.md" not in companion.read_text(encoding="utf-8"):
-                errors.append(f"{folder}/{g['slug']}.md: must link back to its guide")
+            else:
+                text = companion.read_text(encoding="utf-8")
+                if f"methods/{g['folder']}/{g['slug']}.md" not in text:
+                    errors.append(f"{folder}/{g['slug']}.md: must link back to its guide")
+                if folder == "case-studies" and not (
+                    "Illustrative scenario" in text or ("\n## Sources" in text and "](http" in text)
+                ):
+                    errors.append(
+                        f"{folder}/{g['slug']}.md: must be labelled 'Illustrative scenario' or list linked '## Sources'"
+                    )
         for section in REQUIRED:
             if not any(h.startswith(section) for h in g["headings"]):
                 errors.append(f"{name}: missing section '## {section}'")

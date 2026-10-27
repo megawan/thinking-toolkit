@@ -12,7 +12,7 @@
 
 The regret minimization framework asks you to project yourself into the future, for example to age 80, and to look back at the choice. You compare which option you would regret more: trying and failing, or never trying.
 
-Jeff Bezos described using this approach in 1994 when he decided to leave a secure job in finance to start an online bookstore, which became Amazon. He said that he did not expect to regret trying, even if it failed, but would likely regret never having tried.
+Jeff Bezos has described using this approach when he decided to leave a secure job in finance to start an online bookstore, which became Amazon. He said that he did not expect to regret trying, even if it failed, but would likely regret never having tried.
 
 ## Why it works
 
