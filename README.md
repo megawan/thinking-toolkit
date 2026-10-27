@@ -11,6 +11,9 @@ Each method is a short, self-contained guide: what it is, when to use it, how to
 | [Five Whys](methods/five-whys.md) | Root cause analysis | Dig past symptoms to the cause of a problem |
 | [Lateral Thinking](methods/lateral-thinking.md) | Idea generation | Escape obvious solutions and find new angles |
 | [Eisenhower Matrix](methods/eisenhower-matrix.md) | Prioritisation | Sort tasks by urgency and importance |
+| [SWOT Analysis](methods/swot.md) | Analysis and strategy | Map strengths, weaknesses, opportunities, and threats |
+| [Six Thinking Hats](methods/six-thinking-hats.md) | Group thinking and decisions | Explore a topic from six separate angles |
+| [First Principles](methods/first-principles.md) | Problem solving | Break a problem to basic facts and rebuild from there |
 
 More methods will be added over time.
 
