@@ -28,6 +28,7 @@ New methods are welcome.
 | `mental-models` | Mental models |
 | `critical-thinking` | Critical thinking |
 | `design-and-product` | Design and product |
+| `reflection-and-learning` | Reflection and learning |
 
 To add a category, create the folder and add it to `CATEGORIES` in `scripts/toolkit.py`.
 
