@@ -1,0 +1,65 @@
+# Choose a method
+
+Find your situation, then open the method that fits. If several are listed, the first is the usual starting point. For multi-step sequences, see [Workflows](workflows.md).
+
+## I am stuck
+
+| Situation | Try |
+| --- | --- |
+| Every option looks the same | [Lateral Thinking](../methods/ideation/lateral-thinking.md) |
+| I have something that works but want it better | [SCAMPER](../methods/ideation/scamper.md) |
+| People say "that is just how it works" | [First Principles](../methods/mental-models/first-principles.md) |
+| My plan feels vague | [Inversion](../methods/mental-models/inversion.md) |
+
+## Something went wrong
+
+| Situation | Try |
+| --- | --- |
+| The same problem keeps coming back | [Five Whys](../methods/root-cause/five-whys.md) |
+| There are many possible causes | [Fishbone Diagram](../methods/root-cause/fishbone.md) |
+| I have lots of problems and need to know which matter most | [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
+
+## I need to decide
+
+| Situation | Try |
+| --- | --- |
+| Several options and several criteria | [Decision Matrix](../methods/decision-making/decision-matrix.md) |
+| The team argues past each other | [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
+| I want to know how one option could go wrong | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
+| I want a broad view of an option or a business | [SWOT Analysis](../methods/strategy-and-risk/swot.md) |
+
+## I have too much to do
+
+| Situation | Try |
+| --- | --- |
+| Everything feels urgent | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md) |
+| A long list of issues with data behind it | [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
+
+## I am starting something new
+
+| Situation | Try |
+| --- | --- |
+| Check the idea from the ground up | [First Principles](../methods/mental-models/first-principles.md) |
+| Find risks before the team commits | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
+| Understand where we stand | [SWOT Analysis](../methods/strategy-and-risk/swot.md) |
+| Generate approaches | [Lateral Thinking](../methods/ideation/lateral-thinking.md) |
+
+## The team is in a meeting
+
+| Situation | Try |
+| --- | --- |
+| Discussion goes in circles | [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
+| Nobody raises concerns | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
+| We cannot agree between options | [Decision Matrix](../methods/decision-making/decision-matrix.md) |
+| The same blocker appears each sprint | [Five Whys](../methods/root-cause/five-whys.md) |
+
+## By category
+
+| Category | Methods |
+| --- | --- |
+| Root cause analysis | [Five Whys](../methods/root-cause/five-whys.md), [Fishbone Diagram](../methods/root-cause/fishbone.md) |
+| Idea generation | [Lateral Thinking](../methods/ideation/lateral-thinking.md), [SCAMPER](../methods/ideation/scamper.md) |
+| Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
+| Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
+| Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
+| Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md) |

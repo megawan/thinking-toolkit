@@ -122,4 +122,4 @@ Real problems often have more than one cause. When an answer has two valid cause
 
 ## Related
 
-- [Lateral Thinking](lateral-thinking.md): use it after the root cause is known, when the fix is not obvious
+- [Lateral Thinking](../ideation/lateral-thinking.md): use it after the root cause is known, when the fix is not obvious

@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Prioritisation and decision making |
+| **Category** | Prioritisation |
 | **Time needed** | 10-20 minutes, then a few minutes daily or weekly |
 | **Best for** | Overloaded to-do lists, competing demands, and planning your week |
 
@@ -104,5 +104,5 @@ A project manager's Monday:
 
 ## Related
 
-- [Five Whys](five-whys.md): find out why you are stuck in quadrant 1 so often
-- [Lateral Thinking](lateral-thinking.md): find unusual ways to remove or automate tasks
+- [Five Whys](../root-cause/five-whys.md): find out why you are stuck in quadrant 1 so often
+- [Lateral Thinking](../ideation/lateral-thinking.md): find unusual ways to remove or automate tasks

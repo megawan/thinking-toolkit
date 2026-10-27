@@ -103,4 +103,4 @@ Choose categories that fit your problem. They are a prompt, not a rule.
 ## Related
 
 - [Five Whys](five-whys.md): follow a single promising branch deeper
-- [Pareto Analysis](pareto-analysis.md): rank causes by how much they contribute
+- [Pareto Analysis](../prioritisation/pareto-analysis.md): rank causes by how much they contribute

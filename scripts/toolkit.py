@@ -4,8 +4,10 @@
     python3 scripts/toolkit.py build   # regenerate the method index in README.md
     python3 scripts/toolkit.py check   # validate methods, links and README (used by CI)
 
-Method metadata is read from each guide in methods/: the H1 title, the first
-blockquote (summary) and the Category / Best for rows of the header table.
+Guides live in methods/<category>/<method>.md. Metadata is read from each guide:
+the H1 title, the first blockquote (summary) and the Category / Best for rows of
+the header table. Every guide also needs a cheat sheet, a worksheet and a case
+study with the same file name in cheatsheets/, worksheets/ and case-studies/.
 """
 import re
 import sys
@@ -15,6 +17,18 @@ ROOT = Path(__file__).resolve().parent.parent
 METHODS = ROOT / "methods"
 README = ROOT / "README.md"
 START, END = "<!-- methods:start -->", "<!-- methods:end -->"
+
+# Folder name under methods/ -> the Category shown in the guide and the index.
+CATEGORIES = {
+    "root-cause": "Root cause analysis",
+    "ideation": "Idea generation",
+    "decision-making": "Decision making",
+    "prioritisation": "Prioritisation",
+    "strategy-and-risk": "Strategy and risk",
+    "mental-models": "Mental models",
+}
+# Companion folder -> label used in the index.
+EXTRAS = {"cheatsheets": "Cheat sheet", "worksheets": "Worksheet", "case-studies": "Case study"}
 
 # A guide must contain a heading starting with each of these.
 REQUIRED = ["What it is", "When to use", "How to apply", "Example", "Pitfalls", "Related"]
@@ -30,6 +44,8 @@ def parse(path):
     headings = re.findall(r"^## (.+)$", text, re.M)
     return {
         "path": path,
+        "slug": path.stem,
+        "folder": path.parent.name,
         "text": text,
         "title": title.group(1).strip() if title else None,
         "summary": summary.group(1).strip() if summary else None,
@@ -40,13 +56,18 @@ def parse(path):
 
 
 def guides():
-    return [parse(p) for p in sorted(METHODS.glob("*.md"))]
+    return [parse(p) for p in sorted(METHODS.glob("*/*.md"))]
 
 
 def index_table(items):
-    rows = ["| Method | Category | In short |", "| --- | --- | --- |"]
-    for g in sorted(items, key=lambda g: (g["category"] or "", g["title"] or "")):
-        rows.append(f"| [{g['title']}](methods/{g['path'].name}) | {g['category']} | {g['summary']} |")
+    rows = ["| Method | Category | In short | Extras |", "| --- | --- | --- | --- |"]
+    order = list(CATEGORIES)
+    key = lambda g: (order.index(g["folder"]) if g["folder"] in order else len(order), g["title"] or "")
+    for g in sorted(items, key=key):
+        extras = " · ".join(f"[{label}]({d}/{g['slug']}.md)" for d, label in EXTRAS.items())
+        rows.append(
+            f"| [{g['title']}](methods/{g['folder']}/{g['slug']}.md) | {g['category']} | {g['summary']} | {extras} |"
+        )
     return "\n".join(rows)
 
 
@@ -66,6 +87,16 @@ def problems(items):
         for field in ("title", "summary", "category", "best_for"):
             if not g[field]:
                 errors.append(f"{name}: missing {field}")
+        if g["folder"] not in CATEGORIES:
+            errors.append(f"{name}: folder '{g['folder']}' is not a known category (see CATEGORIES)")
+        elif g["category"] != CATEGORIES[g["folder"]]:
+            errors.append(f"{name}: Category must be '{CATEGORIES[g['folder']]}' to match its folder")
+        for folder in EXTRAS:
+            companion = ROOT / folder / f"{g['slug']}.md"
+            if not companion.exists():
+                errors.append(f"{name}: missing {folder}/{g['slug']}.md")
+            elif f"methods/{g['folder']}/{g['slug']}.md" not in companion.read_text(encoding="utf-8"):
+                errors.append(f"{folder}/{g['slug']}.md: must link back to its guide")
         for section in REQUIRED:
             if not any(h.startswith(section) for h in g["headings"]):
                 errors.append(f"{name}: missing section '## {section}'")

@@ -28,7 +28,7 @@ The mind builds patterns from experience and then applies them automatically. Th
 
 ## When not to use
 
-- The cause is unknown (find it first, for example with [Five Whys](five-whys.md))
+- The cause is unknown (find it first, for example with [Five Whys](../root-cause/five-whys.md))
 - A proven, standard solution exists and works
 - You must decide immediately, with no room to explore
 
@@ -160,4 +160,4 @@ Change how the problem is described and a different set of solutions appears.
 
 ## Related
 
-- [Five Whys](five-whys.md): find the real problem first, then generate ideas for it
+- [Five Whys](../root-cause/five-whys.md): find the real problem first, then generate ideas for it
