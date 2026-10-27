@@ -40,7 +40,12 @@ To add a category, create the folder and add it to `CATEGORIES` in `scripts/tool
 
 ## Case studies
 
-Case studies are composite scenarios, marked as illustrative. If you add a real, documented case, name the organisation, cite the source, and keep to what the source says.
+Each method has a case study in one of two forms:
+
+- **Documented:** a real case. Name the organisation or event, say only what the sources say, list the sources under `## Sources` with links, and put anything disputed, unverified or secondhand under `## Caveats`. Prefer primary or well-regarded sources, and say when a source is secondhand.
+- **Illustrative:** a composite scenario, labelled `Illustrative scenario` in the opening quote. Use it when no well-documented real case exists. Do not present invented details as fact.
+
+`toolkit.py check` requires one of the two. Documented case studies are marked in the README index.
 
 ## Checks
 

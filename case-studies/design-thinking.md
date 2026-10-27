@@ -1,29 +1,40 @@
-# Case study: A calmer hospital waiting room
+# Case study: Bank of America's Keep the Change
 
-> Illustrative scenario. It is a composite written to show the method in use, not a report about a real organisation.
+> Documented example. It is based on the source listed below, and the details are limited to what that source reports. The source is a secondhand design-news post, so treat the figures with care.
 
 Method: [Design Thinking](../methods/design-and-product/design-thinking.md)
 
 ## Context
 
-An outpatient clinic received complaints that its waiting room was stressful, and a technology vendor had proposed an expensive digital system.
+Bank of America worked with the design firm IDEO on a savings product aimed at a specific group: women of the baby-boomer generation with children. A February 2007 post on the design site Core77, which credits two other blogs, describes the project.
 
 ## What was done
 
-- Staff spent two days observing and interviewed ten patients: uncertainty about how long they would wait, and where to go, was worse than the wait itself
-- The point of view: 'Anxious patients need to know what is happening because uncertainty is worse than waiting'
-- Ideas: a live wait-time display, text messages, floor markings, a volunteer greeter
-- Prototype: a hand-drawn wait-time board and a script for a volunteer
-- Patients read the board and asked fewer questions at the desk; the greeter helped older patients most
+- **Observation.** IDEO travelled across the United States with members of Bank of America's innovation team and carried out observations in Atlanta, Baltimore and San Francisco. The post calls the approach "ethnographic".
+- **Insight.** Two things stood out: many people, including the target group, round up financial transactions for speed and convenience, and many mothers struggled to save, whether from lack of money or lack of willpower.
+- **Idea.** After a series of brainstorming sessions, the team used the existing habit of rounding up to address the saving problem.
+- **Product.** The result, named Keep the Change, rounds up each purchase made with a Bank of America Visa debit card to the nearest dollar and transfers the difference from the checking account to a savings account, where it earns interest.
 
 ## Outcome
 
-The clinic added estimated times to the board and a sign explaining the process, and postponed the expensive system. Complaints about the waiting room fell.
+The post reports that the programme "attracted 2.5 million customers", including more than 700,000 new checking accounts and one million new savings accounts. It gives no time frame and no original source for these figures.
 
 ## Lessons
 
-- Observation changed the problem from 'waiting' to 'not knowing'
-- A hand-drawn prototype answered the question for almost no cost
-- Testing showed who benefited most
+- The design started from watching people, not from a bank product
+- The solution used a behaviour people already had (rounding up) instead of asking them to adopt a new one
+- The insight combined an existing habit with an unmet need
+- A product can serve both parties: customers saved more, and the bank gained accounts
+
+## Caveats
+
+- The source is a short roundup that repeats other blogs, not a case study by IDEO or the bank
+- The figures have no time frame or attribution in the source
+- The post does not mention interviews, prototyping or testing, so it cannot be used to show every stage of the design thinking process; it shows observation, insight and ideation
+- Whether the results came from the design or from other factors, such as marketing, is not addressed
+
+## Sources
+
+- [Bank of America enlists IDEO's services...FTW!](https://www.core77.com/posts/5564/Bank-of-America-enlists-IDEOs-servicesFTW), Core77, 20 February 2007
 
 Companion files: [cheat sheet](../cheatsheets/design-thinking.md) · [worksheet](../worksheets/design-thinking.md)
