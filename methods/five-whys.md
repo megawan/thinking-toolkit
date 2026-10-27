@@ -69,6 +69,7 @@ If the answer names a person, ask one more why: what allowed that mistake to hap
 **Root cause:** No migration checklist.
 
 **Actions:**
+
 - Add a scheduled-jobs inventory step to the migration checklist (owner: ops, this week)
 - Add an alert at 80% disk usage (owner: ops, this week)
 - Restore log rotation (done)
