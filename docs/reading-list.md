@@ -12,6 +12,12 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Fishbone Diagram | Kaoru Ishikawa, *Guide to Quality Control* |
 | Pareto Analysis | Joseph M. Juran, *Quality Control Handbook* (first edition 1951); Richard Koch, *The 80/20 Principle* (1997) |
 | SCAMPER | Bob Eberle, *SCAMPER: Games for Imagination Development* (1971) |
+| Cost-Benefit Analysis | Jules Dupuit's 1840s writing on public works is the usual starting point; for practice, see a standard public-finance or engineering-economics textbook |
+| Regret Minimization | Jeff Bezos has described the framework in interviews about his 1994 decision to leave his job and start Amazon |
+| 10-10-10 | Suzy Welch, *10-10-10: A Life-Transforming Idea* (2009) |
+| One-way and Two-way Doors | Jeff Bezos, Amazon shareholder letter for 2015 (published 2016) |
+| OODA Loop | John Boyd's briefing "Patterns of Conflict" (1986) and "The Essence of Winning and Losing" (1996); Robert Coram, *Boyd: The Fighter Pilot Who Changed the Art of War* (2002) |
+| Expected Value and Opportunity Cost | The 1654 correspondence of Blaise Pascal and Pierre de Fermat for expected value; Friedrich von Wieser for the term opportunity cost |
 | Mind Mapping | Tony Buzan, *Use Your Head* (1974) |
 | Brainwriting 6-3-5 | Bernd Rohrbach, "Kreativ nach Regeln: Methode 635" (1969) |
 | Crazy 8s | Jake Knapp, John Zeratsky and Braden Kowitz, *Sprint* (2016) |

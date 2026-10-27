@@ -102,6 +102,36 @@ Sequence: Mind Mapping → Morphological Analysis → Analogical Thinking → De
 | Widen | [Analogical Thinking](../methods/ideation/analogical-thinking.md) | More options per row, borrowed from other fields |
 | Choose | [Decision Matrix](../methods/decision-making/decision-matrix.md) | The best combination, with reasons |
 
+## 9. A large decision with money and uncertainty
+
+Sequence: One-way and Two-way Doors → Expected Value and Opportunity Cost → Cost-Benefit Analysis → Pre-mortem
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Size the care needed | [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md) | Whether to decide fast or carefully, and how to make it reversible |
+| Handle uncertainty | [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md) | Average outcome compared with the next-best option |
+| Add time | [Cost-Benefit Analysis](../methods/decision-making/cost-benefit-analysis.md) | NPV, break-even and payback |
+| De-risk | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | Risks to the assumptions behind the numbers |
+
+## 10. A personal choice that feels stuck
+
+Sequence: 10-10-10 → Regret Minimization → One-way and Two-way Doors
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Separate feeling from effect | [10-10-10](../methods/decision-making/ten-ten-ten.md) | What matters now, in months and in years |
+| Check values | [Regret Minimization](../methods/decision-making/regret-minimization.md) | Which option fits who you want to have been |
+| Limit the risk | [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md) | A reversible first step or a safety margin |
+
+## 11. A fast-moving situation
+
+Sequence: OODA Loop → Five Whys
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Respond | [OODA Loop](../methods/decision-making/ooda-loop.md) | Quick, small actions with feedback |
+| Learn | [Five Whys](../methods/root-cause/five-whys.md) | The root cause, after the immediate fire is out |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice
