@@ -194,6 +194,41 @@ Sequence: Systems Thinking → Second-order Thinking → Five Whys
 | Test the fix | [Second-order Thinking](../methods/mental-models/second-order-thinking.md) | Side effects of each candidate fix |
 | Confirm the cause | [Five Whys](../methods/root-cause/five-whys.md) | Root cause of the key link |
 
+## 18. From a vague product idea to a tested offer
+
+Sequence: Jobs To Be Done → Empathy Map → Value Proposition Canvas → Business Model and Lean Canvas
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Find the job | [Jobs To Be Done](../methods/design-and-product/jobs-to-be-done.md) | The progress customers want, and the real alternatives |
+| Understand the person | [Empathy Map](../methods/design-and-product/empathy-map.md) | Pains, gains and tensions from research |
+| Fit the offer | [Value Proposition Canvas](../methods/design-and-product/value-proposition-canvas.md) | A ranked match between the offer and the customer |
+| Build the model | [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) | A one-page model with its riskiest assumptions |
+
+## 19. Fixing a broken experience
+
+Sequence: User Journey Map → Pareto Analysis → How Might We → Crazy 8s → Impact-Effort Matrix
+
+| Step | Method | Output |
+| --- | --- | --- |
+| See the whole | [User Journey Map](../methods/design-and-product/user-journey-map.md) | The low points of the experience |
+| Rank the problems | [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) | The few that cause most drop-off |
+| Frame | [How Might We](../methods/ideation/how-might-we.md) | A design question for the top problem |
+| Generate | [Crazy 8s](../methods/ideation/crazy-8s.md) | Sketched alternatives |
+| Sort | [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) | Quick wins first |
+
+## 20. Entering a new market
+
+Sequence: PESTEL Analysis → Porter's Five Forces → SWOT Analysis → Business Model and Lean Canvas → Pre-mortem
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Scan the environment | [PESTEL Analysis](../methods/strategy-and-risk/pestel-analysis.md) | External trends and rules |
+| Judge the industry | [Porter's Five Forces](../methods/strategy-and-risk/porters-five-forces.md) | Where the competitive pressure sits |
+| Look inward | [SWOT Analysis](../methods/strategy-and-risk/swot.md) | How your strengths meet the opportunities |
+| Shape the model | [Business Model and Lean Canvas](../methods/strategy-and-risk/business-model-and-lean-canvas.md) | A model that responds to what you found |
+| De-risk | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | Risks to the plan and responses |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice

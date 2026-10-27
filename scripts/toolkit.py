@@ -28,6 +28,7 @@ CATEGORIES = {
     "strategy-and-risk": "Strategy and risk",
     "mental-models": "Mental models",
     "critical-thinking": "Critical thinking",
+    "design-and-product": "Design and product",
 }
 # Companion folder -> label used in the index.
 EXTRAS = {"cheatsheets": "Cheat sheet", "worksheets": "Worksheet", "case-studies": "Case study"}
