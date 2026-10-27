@@ -78,6 +78,7 @@ A SWOT list is only the start. Pair the quadrants:
 | **External** | **Opportunities:** growing demand for local food delivery; nearby offices with no bakery; subscription boxes | **Threats:** supermarket chains offering similar bread; rising flour prices; delivery apps taking 25-30% |
 
 **Actions from TOWS:**
+
 - S+O: Offer a weekly sourdough subscription to nearby offices (use reputation and loyal base)
 - W+O: Start with pickup-point orders to avoid buying a vehicle
 - S+T: Position on quality, not price, against supermarkets

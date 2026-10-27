@@ -49,6 +49,7 @@ The mind builds patterns from experience and then applies them automatically. Th
 Every problem rests on beliefs that are rarely questioned.
 
 **How:**
+
 1. List every assumption you can find about the problem ("customers must register", "the report must be weekly", "this needs a meeting").
 2. For each, ask: what if this were not true?
 3. Explore what becomes possible.
@@ -60,6 +61,7 @@ Every problem rests on beliefs that are rarely questioned.
 Use an unrelated word, object, or image to force new connections.
 
 **How:**
+
 1. Pick a random word (open a book, use a word list, or pick the first object you see).
 2. List its properties, uses, and associations.
 3. Force a link between each one and your problem.
@@ -72,6 +74,7 @@ Use an unrelated word, object, or image to force new connections.
 A provocation is a deliberately unreasonable statement, marked "PO", used as a stepping stone rather than a claim.
 
 **How:**
+
 1. Create a provocation by one of these methods:
    - **Reversal:** state the opposite ("PO: customers pay before they know the price")
    - **Exaggeration:** push a number to the extreme ("PO: the shop has ten thousand staff")
@@ -87,6 +90,7 @@ A provocation is a deliberately unreasonable statement, marked "PO", used as a s
 Turn the problem upside down.
 
 **How:**
+
 1. Restate the goal as its opposite ("How can we lose all our customers?").
 2. List every way to achieve the opposite.
 3. Invert each item into a possible solution.
@@ -98,6 +102,7 @@ Turn the problem upside down.
 Resist the first workable answer.
 
 **How:**
+
 1. Set a quota before you begin (for example, 10 distinct approaches).
 2. Keep going past the point where ideas feel exhausted.
 3. Label each by its underlying approach and make sure they differ in kind, not just in detail.
@@ -109,13 +114,14 @@ Resist the first workable answer.
 Change how the problem is described and a different set of solutions appears.
 
 **How:**
+
 1. Restate the problem at a higher level ("why do we want this?") and a lower level ("what is a smaller piece?").
 2. Restate it from another person's point of view (customer, competitor, newcomer).
 3. Solve each version.
 
 **Example:** "We need more parking" becomes "people need to get to work" (carpool, shuttle, remote days) or "cars sit idle all day" (shared use, valet stacking).
 
-## Full worked example
+## Example: abandoned checkout
 
 **Situation:** A small online store loses many customers at the checkout page.
 
