@@ -12,6 +12,12 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Fishbone Diagram | Kaoru Ishikawa, *Guide to Quality Control* |
 | Pareto Analysis | Joseph M. Juran, *Quality Control Handbook* (first edition 1951); Richard Koch, *The 80/20 Principle* (1997) |
 | SCAMPER | Bob Eberle, *SCAMPER: Games for Imagination Development* (1971) |
+| MoSCoW | Dai Clegg's MoSCoW rules, as used in the DSDM Agile Project Framework |
+| RICE and ICE Scoring | The Intercom product team's description of RICE; Sean Ellis on ICE scoring in growth experiments |
+| Impact-Effort Matrix | Widely used in lean, agile and design practice; no single canonical source |
+| OKR | John Doerr, *Measure What Matters* (2018); Andy Grove, *High Output Management* (1983) |
+| SMART Goals | George T. Doran, "There's a S.M.A.R.T. Way to Write Management's Goals and Objectives", *Management Review* (November 1981) |
+| Backcasting | John B. Robinson, "Energy backcasting: A proposed method of policy analysis", *Energy Policy* (1982) |
 | Cost-Benefit Analysis | Jules Dupuit's 1840s writing on public works is the usual starting point; for practice, see a standard public-finance or engineering-economics textbook |
 | Regret Minimization | Jeff Bezos has described the framework in interviews about his 1994 decision to leave his job and start Amazon |
 | 10-10-10 | Suzy Welch, *10-10-10: A Life-Transforming Idea* (2009) |

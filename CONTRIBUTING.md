@@ -23,6 +23,7 @@ New methods are welcome.
 | `ideation` | Idea generation |
 | `decision-making` | Decision making |
 | `prioritisation` | Prioritisation |
+| `planning` | Planning and goals |
 | `strategy-and-risk` | Strategy and risk |
 | `mental-models` | Mental models |
 

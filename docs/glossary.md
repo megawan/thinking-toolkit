@@ -12,9 +12,11 @@ Terms used across the guides, in alphabetical order.
 | Assumption | A belief taken for granted without checking it |
 | Biomimicry | Taking design solutions from nature |
 | Benefit-cost ratio (BCR) | Present value of benefits divided by present value of costs; above 1 means benefits exceed costs |
+| Backcasting | Planning that starts from a desired future and works backwards to the present |
 | Brainstorming | Generating many ideas without judging them, then evaluating afterwards |
 | Brainwriting | Generating ideas in writing instead of aloud; see [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) |
 | Cause and effect diagram | Another name for the [Fishbone Diagram](../methods/root-cause/fishbone.md) |
+| Confidence (in RICE) | A percentage showing how sure you are about the estimates behind a score |
 | Confirmation bias | Favouring information that supports what you already believe |
 | Convention | A habit or standard way of doing things, which may not be a fact |
 | Criteria | The factors by which options are judged in a decision |
@@ -22,6 +24,7 @@ Terms used across the guides, in alphabetical order.
 | Cumulative percentage | The running total of shares as items are added in ranked order |
 | Discount rate | The rate used to convert future amounts into today's value |
 | Delegate | Hand a task to someone else with clear instructions |
+| Effort | The total work an item needs, in person-time or cost |
 | Divergent thinking | Producing many different ideas or options |
 | Convergent thinking | Narrowing options down to a choice |
 | Expected value (EV) | The probability-weighted average of the possible outcomes of a choice |
@@ -35,20 +38,27 @@ Terms used across the guides, in alphabetical order.
 | Internal / external factor | Within your control (strengths, weaknesses) versus outside it (opportunities, threats) |
 | Lateral thinking | Deliberate techniques for approaching a problem from unexpected angles |
 | Mind map | A diagram that branches outward from a central topic; see [Mind Mapping](../methods/ideation/mind-mapping.md) |
+| Key result | A measurable outcome showing progress towards an objective in an OKR |
 | Mental model | A simplified way of understanding how something works, used to reason about it |
 | Morphological box | A table of parameters and their options, used to generate combinations; also called a Zwicky box |
+| MoSCoW | Must, Should, Could, Won't: a method for fixing scope |
 | Must-have | A hard requirement; options that fail it are removed before scoring |
 | Parameter | An independent feature or choice that defines part of a solution |
 | OODA loop | Observe, orient, decide, act: a repeating decision cycle developed by John Boyd |
+| Objective (in OKR) | An inspiring statement of what you want to achieve in a period |
 | Opportunity cost | What you give up by choosing one option over another |
 | One-way door / two-way door | A decision that is hard to reverse versus one that is easy to reverse |
 | PO (provocation) | A deliberately unreasonable statement used as a stepping stone to new ideas |
 | Pre-mortem | Imagining a project has failed in order to find its risks early |
+| Quick win | An item with high impact and low effort |
 | Prioritisation | Deciding what to do first, and what not to do |
 | Provocation | See PO |
 | Reframing | Restating a problem from another level or point of view |
+| Reach (in RICE) | How many people or events an item affects in a period |
 | Root cause | The underlying cause which, if fixed, prevents the problem from recurring |
+| SMART | Specific, Measurable, Achievable, Relevant, Time-bound: a checklist for goals |
 | Sensitivity check | Testing whether a result changes when inputs such as weights change slightly |
+| Stretch goal | An ambitious target that may not be fully reached |
 | Stakeholder | A person or group affected by, or able to affect, a decision |
 | Synectics | A creativity method using analogies, developed by William J. J. Gordon |
 | Sunk cost | Money or effort already spent that cannot be recovered and should not drive the next decision |

@@ -132,6 +132,27 @@ Sequence: OODA Loop → Five Whys
 | Respond | [OODA Loop](../methods/decision-making/ooda-loop.md) | Quick, small actions with feedback |
 | Learn | [Five Whys](../methods/root-cause/five-whys.md) | The root cause, after the immediate fire is out |
 
+## 12. From a big goal to this quarter's plan
+
+Sequence: Backcasting → SMART Goals → OKR → Pre-mortem
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Map the route | [Backcasting](../methods/planning/backcasting.md) | Dated milestones from the goal back to today |
+| Sharpen | [SMART Goals](../methods/planning/smart-goals.md) | Clear, measurable wording for the nearest milestone |
+| Commit | [OKR](../methods/planning/okr.md) | Objectives and key results for the quarter |
+| De-risk | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | Risks to the plan and responses |
+
+## 13. From a long backlog to a release scope
+
+Sequence: Impact-Effort Matrix → RICE and ICE Scoring → MoSCoW
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Sort quickly | [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) | Quick wins, major projects and items to drop |
+| Rank | [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md) | A scored order for the remaining items |
+| Fix scope | [MoSCoW](../methods/prioritisation/moscow.md) | Must, Should, Could and Won't for a fixed date |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice
