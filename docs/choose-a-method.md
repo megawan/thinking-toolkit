@@ -46,6 +46,18 @@ Find your situation, then open the method that fits. If several are listed, the 
 | --- | --- |
 | Everything feels urgent | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md) |
 | A long list of issues with data behind it | [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
+| A release must fit a fixed date and everyone says their item is essential | [MoSCoW](../methods/prioritisation/moscow.md) |
+| A long backlog needs a ranking on evidence | [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md) |
+| I want a quick visual sort of ideas into quick wins and money pits | [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) |
+
+## I need to plan or set goals
+
+| Situation | Try |
+| --- | --- |
+| A vague wish needs to become a clear goal | [SMART Goals](../methods/planning/smart-goals.md) |
+| The team needs focus and alignment this quarter | [OKR](../methods/planning/okr.md) |
+| The goal is far away and the path is unclear | [Backcasting](../methods/planning/backcasting.md) |
+| I want to test the plan before starting | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
 
 ## I am starting something new
 
@@ -74,6 +86,7 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Root cause analysis | [Five Whys](../methods/root-cause/five-whys.md), [Fishbone Diagram](../methods/root-cause/fishbone.md) |
 | Idea generation | [Lateral Thinking](../methods/ideation/lateral-thinking.md), [SCAMPER](../methods/ideation/scamper.md), [Mind Mapping](../methods/ideation/mind-mapping.md), [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md), [Crazy 8s](../methods/ideation/crazy-8s.md), [Analogical Thinking](../methods/ideation/analogical-thinking.md), [Morphological Analysis](../methods/ideation/morphological-analysis.md), [How Might We](../methods/ideation/how-might-we.md) |
 | Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md), [Cost-Benefit Analysis](../methods/decision-making/cost-benefit-analysis.md), [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md), [Regret Minimization](../methods/decision-making/regret-minimization.md), [10-10-10](../methods/decision-making/ten-ten-ten.md), [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md), [OODA Loop](../methods/decision-making/ooda-loop.md) |
-| Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
+| Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md), [MoSCoW](../methods/prioritisation/moscow.md), [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md), [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) |
+| Planning and goals | [SMART Goals](../methods/planning/smart-goals.md), [OKR](../methods/planning/okr.md), [Backcasting](../methods/planning/backcasting.md) |
 | Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
 | Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md) |
