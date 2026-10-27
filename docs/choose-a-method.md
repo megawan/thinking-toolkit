@@ -33,6 +33,12 @@ Find your situation, then open the method that fits. If several are listed, the 
 | The team argues past each other | [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
 | I want to know how one option could go wrong | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
 | I want a broad view of an option or a business | [SWOT Analysis](../methods/strategy-and-risk/swot.md) |
+| The choice is about money and I can estimate costs and benefits | [Cost-Benefit Analysis](../methods/decision-making/cost-benefit-analysis.md) |
+| Outcomes are uncertain, or my time has other uses | [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md) |
+| A big life or career choice that numbers do not settle | [Regret Minimization](../methods/decision-making/regret-minimization.md) |
+| I am about to react in the heat of the moment | [10-10-10](../methods/decision-making/ten-ten-ten.md) |
+| I do not know how much care this decision needs | [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md) |
+| The situation changes faster than we can plan | [OODA Loop](../methods/decision-making/ooda-loop.md) |
 
 ## I have too much to do
 
@@ -67,7 +73,7 @@ Find your situation, then open the method that fits. If several are listed, the 
 | --- | --- |
 | Root cause analysis | [Five Whys](../methods/root-cause/five-whys.md), [Fishbone Diagram](../methods/root-cause/fishbone.md) |
 | Idea generation | [Lateral Thinking](../methods/ideation/lateral-thinking.md), [SCAMPER](../methods/ideation/scamper.md), [Mind Mapping](../methods/ideation/mind-mapping.md), [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md), [Crazy 8s](../methods/ideation/crazy-8s.md), [Analogical Thinking](../methods/ideation/analogical-thinking.md), [Morphological Analysis](../methods/ideation/morphological-analysis.md), [How Might We](../methods/ideation/how-might-we.md) |
-| Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
+| Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md), [Cost-Benefit Analysis](../methods/decision-making/cost-benefit-analysis.md), [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md), [Regret Minimization](../methods/decision-making/regret-minimization.md), [10-10-10](../methods/decision-making/ten-ten-ten.md), [One-way and Two-way Doors](../methods/decision-making/one-way-and-two-way-doors.md), [OODA Loop](../methods/decision-making/ooda-loop.md) |
 | Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
 | Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
 | Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md) |
