@@ -12,6 +12,12 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Fishbone Diagram | Kaoru Ishikawa, *Guide to Quality Control* |
 | Pareto Analysis | Joseph M. Juran, *Quality Control Handbook* (first edition 1951); Richard Koch, *The 80/20 Principle* (1997) |
 | SCAMPER | Bob Eberle, *SCAMPER: Games for Imagination Development* (1971) |
+| Mind Mapping | Tony Buzan, *Use Your Head* (1974) |
+| Brainwriting 6-3-5 | Bernd Rohrbach, "Kreativ nach Regeln: Methode 635" (1969) |
+| Crazy 8s | Jake Knapp, John Zeratsky and Braden Kowitz, *Sprint* (2016) |
+| Analogical Thinking | William J. J. Gordon, *Synectics* (1961) |
+| Morphological Analysis | Fritz Zwicky, *Discovery, Invention, Research Through the Morphological Approach* (1969) |
+| How Might We | Min Basadur, *The Power of Innovation* (1995); IDEO and the Stanford d.school helped popularise the format |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |
 | Inversion | Charlie Munger, talks collected in *Poor Charlie's Almanack* (2005) |
