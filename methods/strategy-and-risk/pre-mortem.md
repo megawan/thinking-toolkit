@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Risk and planning |
+| **Category** | Strategy and risk |
 | **Time needed** | 30-60 minutes with the team, before the project starts |
 | **Best for** | Projects, launches, and decisions where people are optimistic and failure would be costly |
 
@@ -86,6 +86,6 @@ Teams that have committed to a plan tend to see its strengths and ignore its wea
 
 ## Related
 
-- [Five Whys](five-whys.md): use it afterwards on a real failure to find its cause
-- [Six Thinking Hats](six-thinking-hats.md): the Black Hat covers similar ground in a live discussion
+- [Five Whys](../root-cause/five-whys.md): use it afterwards on a real failure to find its cause
+- [Six Thinking Hats](../decision-making/six-thinking-hats.md): the Black Hat covers similar ground in a live discussion
 - [SWOT Analysis](swot.md): a broader view of risks and opportunities

@@ -93,5 +93,5 @@ Hard decisions mix many factors, and the mind fixes on a few. Listing criteria i
 ## Related
 
 - [Six Thinking Hats](six-thinking-hats.md): discuss the options from several angles before scoring
-- [SWOT Analysis](swot.md): assess a single option in depth
-- [Eisenhower Matrix](eisenhower-matrix.md): rank tasks instead of choosing between options
+- [SWOT Analysis](../strategy-and-risk/swot.md): assess a single option in depth
+- [Eisenhower Matrix](../prioritisation/eisenhower-matrix.md): rank tasks instead of choosing between options

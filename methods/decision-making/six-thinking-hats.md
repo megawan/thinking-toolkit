@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Group thinking and decision making |
+| **Category** | Decision making |
 | **Time needed** | 30-90 minutes, best with a group of 3-8 |
 | **Best for** | Meetings, decisions, and reviews where opinions clash or one viewpoint dominates |
 
@@ -95,5 +95,5 @@ Write each hat's thoughts on a separate page. Set a timer per hat. The value is 
 
 ## Related
 
-- [Lateral Thinking](lateral-thinking.md): same author; the Green hat uses its techniques
-- [Five Whys](five-whys.md): a good source of facts for the White hat when reviewing a failure
+- [Lateral Thinking](../ideation/lateral-thinking.md): same author; the Green hat uses its techniques
+- [Five Whys](../root-cause/five-whys.md): a good source of facts for the White hat when reviewing a failure

@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Problem solving |
+| **Category** | Mental models |
 | **Time needed** | 30-60 minutes, solo or with a small group |
 | **Best for** | Questioning "how it has always been done", redesigning costs, products, or processes |
 
@@ -87,5 +87,5 @@ Most conventions exist for historical reasons that may no longer apply. By separ
 
 ## Related
 
-- [Five Whys](five-whys.md): both dig below the surface; Five Whys finds causes, First Principles rebuilds solutions
-- [Lateral Thinking](lateral-thinking.md): challenging assumptions is also one of its techniques
+- [Five Whys](../root-cause/five-whys.md): both dig below the surface; Five Whys finds causes, First Principles rebuilds solutions
+- [Lateral Thinking](../ideation/lateral-thinking.md): challenging assumptions is also one of its techniques

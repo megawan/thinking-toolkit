@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Mental model |
+| **Category** | Mental models |
 | **Time needed** | 10-30 minutes, solo or in a group |
 | **Best for** | Planning, risk spotting, and problems where the direct approach has not worked |
 
@@ -32,7 +32,7 @@ People are better at spotting errors than at designing perfection. Many fields a
 
 - Avoiding failure is not enough to produce success; use it alongside a positive plan
 - The problem has no clear opposite
-- You need creative new options, where [Lateral Thinking](lateral-thinking.md) fits better
+- You need creative new options, where [Lateral Thinking](../ideation/lateral-thinking.md) fits better
 
 ## How to apply
 
@@ -82,7 +82,7 @@ People are better at spotting errors than at designing perfection. Many fields a
 
 ## Tips
 
-- Pair it with [Pre-mortem](pre-mortem.md) for team projects
+- Pair it with [Pre-mortem](../strategy-and-risk/pre-mortem.md) for team projects
 - Write failure causes out in plain words; avoid softening them
 - Ask "what are we doing now that is on this list?"
 - Revisit the list when the plan changes
@@ -106,6 +106,6 @@ People are better at spotting errors than at designing perfection. Many fields a
 
 ## Related
 
-- [Pre-mortem](pre-mortem.md): a team version of the same idea, imagining that the project has failed
+- [Pre-mortem](../strategy-and-risk/pre-mortem.md): a team version of the same idea, imagining that the project has failed
 - [First Principles](first-principles.md): another way of questioning assumptions
-- [Lateral Thinking](lateral-thinking.md): its Reversal technique is a close relative
+- [Lateral Thinking](../ideation/lateral-thinking.md): its Reversal technique is a close relative

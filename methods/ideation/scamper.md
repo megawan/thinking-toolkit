@@ -36,7 +36,7 @@ Blank-page brainstorming is hard. SCAMPER gives each round a narrow, concrete qu
 ## When not to use
 
 - There is nothing to start from; try [Lateral Thinking](lateral-thinking.md) first
-- The real issue is an unknown cause; find it with [Five Whys](five-whys.md)
+- The real issue is an unknown cause; find it with [Five Whys](../root-cause/five-whys.md)
 - You need a single decision, not a pool of options
 
 ## How to apply
@@ -102,4 +102,4 @@ Blank-page brainstorming is hard. SCAMPER gives each round a narrow, concrete qu
 ## Related
 
 - [Lateral Thinking](lateral-thinking.md): broader techniques for when there is no starting point
-- [First Principles](first-principles.md): rebuilds from fundamentals, while SCAMPER modifies what exists
+- [First Principles](../mental-models/first-principles.md): rebuilds from fundamentals, while SCAMPER modifies what exists

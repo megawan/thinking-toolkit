@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Prioritisation and analysis |
+| **Category** | Prioritisation |
 | **Time needed** | 30-60 minutes, plus time to gather data |
 | **Best for** | Choosing where to focus when there are many problems, causes, or tasks and limited time |
 
@@ -72,7 +72,7 @@ A support team received 500 tickets last month.
 - **Ignoring severity.** A rare but critical issue may deserve attention regardless of rank.
 - **Assuming exactly 80/20.** The shape matters more than the numbers.
 - **Doing it once.** Re-run after changes; the biggest item shifts.
-- **Mistaking correlation for cause.** The chart shows where, not why. Use [Fishbone Diagram](fishbone.md) or [Five Whys](five-whys.md) for the cause.
+- **Mistaking correlation for cause.** The chart shows where, not why. Use [Fishbone Diagram](../root-cause/fishbone.md) or [Five Whys](../root-cause/five-whys.md) for the cause.
 
 ## Quick checklist
 
@@ -85,5 +85,5 @@ A support team received 500 tickets last month.
 
 ## Related
 
-- [Fishbone Diagram](fishbone.md): find the possible causes behind each category
+- [Fishbone Diagram](../root-cause/fishbone.md): find the possible causes behind each category
 - [Eisenhower Matrix](eisenhower-matrix.md): prioritise tasks by urgency and importance instead of data

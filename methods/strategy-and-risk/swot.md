@@ -4,7 +4,7 @@
 
 | | |
 | --- | --- |
-| **Category** | Analysis and strategy |
+| **Category** | Strategy and risk |
 | **Time needed** | 45-90 minutes, solo or with a group |
 | **Best for** | Evaluating a business, project, product, career move, or plan before committing |
 
@@ -108,5 +108,5 @@ Subject: "Should I change career into data analysis?" Strengths: strong maths, c
 
 ## Related
 
-- [Five Whys](five-whys.md): dig into a weakness to understand its cause
-- [Lateral Thinking](lateral-thinking.md): generate options for turning a threat into an opportunity
+- [Five Whys](../root-cause/five-whys.md): dig into a weakness to understand its cause
+- [Lateral Thinking](../ideation/lateral-thinking.md): generate options for turning a threat into an opportunity
