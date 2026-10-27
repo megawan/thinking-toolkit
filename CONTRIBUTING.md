@@ -26,6 +26,7 @@ New methods are welcome.
 | `planning` | Planning and goals |
 | `strategy-and-risk` | Strategy and risk |
 | `mental-models` | Mental models |
+| `critical-thinking` | Critical thinking |
 
 To add a category, create the folder and add it to `CATEGORIES` in `scripts/toolkit.py`.
 

@@ -30,6 +30,16 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Analogical Thinking | William J. J. Gordon, *Synectics* (1961) |
 | Morphological Analysis | Fritz Zwicky, *Discovery, Invention, Research Through the Morphological Approach* (1969) |
 | How Might We | Min Basadur, *The Power of Innovation* (1995); IDEO and the Stanford d.school helped popularise the format |
+| Second-order Thinking | Robert K. Merton, "The Unanticipated Consequences of Purposive Social Action" (1936); Howard Marks, *The Most Important Thing* (2011) on second-level thinking |
+| Occam's and Hanlon's Razor | William of Ockham for the first; the second is named after Robert J. Hanlon in a 1980 collection of Murphy's Law jokes |
+| Fermi Estimation | Lawrence Weinstein and John A. Adam, *Guesstimation* (2008) |
+| Bayesian Thinking | Thomas Bayes's essay, published in 1763; Philip Tetlock and Dan Gardner, *Superforecasting* (2015) |
+| Systems Thinking | Donella Meadows, *Thinking in Systems* (2008); Peter Senge, *The Fifth Discipline* (1990) |
+| Steel-manning | Daniel Dennett, *Intuition Pumps and Other Tools for Thinking* (2013), which sets out Anatol Rapoport's rules |
+| Socratic Questioning | Plato's early dialogues; Richard Paul and Linda Elder, *The Thinker's Guide to the Art of Socratic Questioning* |
+| Red Team and Devil's Advocate | Micah Zenko, *Red Team* (2015) |
+| Cognitive Biases | Amos Tversky and Daniel Kahneman, "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974); Daniel Kahneman, *Thinking, Fast and Slow* (2011) |
+| Ladder of Inference | Chris Argyris; Peter Senge and others, *The Fifth Discipline Fieldbook* (1994) |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |
 | Inversion | Charlie Munger, talks collected in *Poor Charlie's Almanack* (2005) |

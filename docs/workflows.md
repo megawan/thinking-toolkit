@@ -153,6 +153,47 @@ Sequence: Impact-Effort Matrix → RICE and ICE Scoring → MoSCoW
 | Rank | [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md) | A scored order for the remaining items |
 | Fix scope | [MoSCoW](../methods/prioritisation/moscow.md) | Must, Should, Could and Won't for a fixed date |
 
+## 14. Testing a plan before committing
+
+Sequence: Second-order Thinking → Red Team and Devil's Advocate → Cognitive Biases → Pre-mortem
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Follow the effects | [Second-order Thinking](../methods/mental-models/second-order-thinking.md) | Consequences of the plan beyond the first step |
+| Attack it | [Red Team and Devil's Advocate](../methods/critical-thinking/red-team-and-devils-advocate.md) | Weaknesses found by someone independent |
+| Check judgment | [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md) | Biases behind the estimates and the confidence |
+| De-risk | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | A shared list of risks with owners |
+
+## 15. Resolving a disagreement
+
+Sequence: Ladder of Inference → Steel-manning → Socratic Questioning
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Check your own reasoning | [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) | Facts separated from interpretation |
+| Understand the other side | [Steel-manning](../methods/critical-thinking/steel-manning.md) | Their view in its strongest form |
+| Explore together | [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md) | Shared understanding of where you really differ |
+
+## 16. Estimating under uncertainty
+
+Sequence: Fermi Estimation → Bayesian Thinking → Expected Value and Opportunity Cost
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Size it | [Fermi Estimation](../methods/mental-models/fermi-estimation.md) | A rough number and range |
+| Update it | [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md) | A revised probability as evidence arrives |
+| Decide | [Expected Value and Opportunity Cost](../methods/decision-making/expected-value-and-opportunity-cost.md) | A choice that weighs outcomes by their chances |
+
+## 17. A problem that keeps coming back
+
+Sequence: Systems Thinking → Second-order Thinking → Five Whys
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Map the structure | [Systems Thinking](../methods/mental-models/systems-thinking.md) | Loops and delays behind the pattern |
+| Test the fix | [Second-order Thinking](../methods/mental-models/second-order-thinking.md) | Side effects of each candidate fix |
+| Confirm the cause | [Five Whys](../methods/root-cause/five-whys.md) | Root cause of the key link |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice

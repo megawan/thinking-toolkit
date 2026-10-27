@@ -79,6 +79,26 @@ Find your situation, then open the method that fits. If several are listed, the 
 | We cannot agree between options | [Decision Matrix](../methods/decision-making/decision-matrix.md) |
 | The same blocker appears each sprint | [Five Whys](../methods/root-cause/five-whys.md) |
 
+## I need to think more clearly
+
+| Situation | Try |
+| --- | --- |
+| A change looks good at first glance but I worry about side effects | [Second-order Thinking](../methods/mental-models/second-order-thinking.md) |
+| Several explanations fit the facts | [Occam's and Hanlon's Razor](../methods/mental-models/occams-and-hanlons-razor.md) |
+| I need a number but have no data | [Fermi Estimation](../methods/mental-models/fermi-estimation.md) |
+| New evidence has arrived and I need to update my view | [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md) |
+| The problem has loops and keeps coming back | [Systems Thinking](../methods/mental-models/systems-thinking.md) |
+
+## I disagree with someone, or I want to test an idea
+
+| Situation | Try |
+| --- | --- |
+| I want to understand the other side's best case | [Steel-manning](../methods/critical-thinking/steel-manning.md) |
+| I want to examine a claim or help someone think it through | [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md) |
+| The plan needs to be attacked before reality does it | [Red Team and Devil's Advocate](../methods/critical-thinking/red-team-and-devils-advocate.md) |
+| I suspect my judgment was affected by a bias | [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md) |
+| I am sure about someone's motives and want to check | [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) |
+
 ## By category
 
 | Category | Methods |
@@ -89,4 +109,5 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md), [MoSCoW](../methods/prioritisation/moscow.md), [RICE and ICE Scoring](../methods/prioritisation/rice-and-ice-scoring.md), [Impact-Effort Matrix](../methods/prioritisation/impact-effort-matrix.md) |
 | Planning and goals | [SMART Goals](../methods/planning/smart-goals.md), [OKR](../methods/planning/okr.md), [Backcasting](../methods/planning/backcasting.md) |
 | Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
-| Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md) |
+| Mental models | [First Principles](../methods/mental-models/first-principles.md), [Inversion](../methods/mental-models/inversion.md), [Second-order Thinking](../methods/mental-models/second-order-thinking.md), [Occam's and Hanlon's Razor](../methods/mental-models/occams-and-hanlons-razor.md), [Fermi Estimation](../methods/mental-models/fermi-estimation.md), [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md), [Systems Thinking](../methods/mental-models/systems-thinking.md) |
+| Critical thinking | [Steel-manning](../methods/critical-thinking/steel-manning.md), [Socratic Questioning](../methods/critical-thinking/socratic-questioning.md), [Red Team and Devil's Advocate](../methods/critical-thinking/red-team-and-devils-advocate.md), [Cognitive Biases](../methods/critical-thinking/cognitive-biases.md), [Ladder of Inference](../methods/critical-thinking/ladder-of-inference.md) |
