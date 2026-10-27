@@ -6,9 +6,12 @@ Terms used across the guides, in alphabetical order.
 | --- | --- |
 | 80/20 rule | The observation that roughly 80% of effects come from 20% of causes; see [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
 | Alternative | A different way of reaching the same goal, not a small variation of the same idea |
+| Analogy | A comparison between two things that share a structure, used to transfer a solution |
 | Anchoring | Relying too heavily on the first piece of information encountered |
 | Assumption | A belief taken for granted without checking it |
+| Biomimicry | Taking design solutions from nature |
 | Brainstorming | Generating many ideas without judging them, then evaluating afterwards |
+| Brainwriting | Generating ideas in writing instead of aloud; see [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) |
 | Cause and effect diagram | Another name for the [Fishbone Diagram](../methods/root-cause/fishbone.md) |
 | Confirmation bias | Favouring information that supports what you already believe |
 | Convention | A habit or standard way of doing things, which may not be a fact |
@@ -18,14 +21,18 @@ Terms used across the guides, in alphabetical order.
 | Divergent thinking | Producing many different ideas or options |
 | Convergent thinking | Narrowing options down to a choice |
 | First principle | A basic fact that cannot be reduced further |
+| HMW (How Might We) | A question format that frames a challenge openly; see [How Might We](../methods/ideation/how-might-we.md) |
 | Groupthink | A group's drive for agreement overriding honest assessment |
 | Hat (thinking hat) | One of six thinking modes in [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
 | Hindsight | Seeing why something happened after the fact; a pre-mortem borrows it before the fact |
 | Importance | How much a task contributes to your goals and values |
 | Internal / external factor | Within your control (strengths, weaknesses) versus outside it (opportunities, threats) |
 | Lateral thinking | Deliberate techniques for approaching a problem from unexpected angles |
+| Mind map | A diagram that branches outward from a central topic; see [Mind Mapping](../methods/ideation/mind-mapping.md) |
 | Mental model | A simplified way of understanding how something works, used to reason about it |
+| Morphological box | A table of parameters and their options, used to generate combinations; also called a Zwicky box |
 | Must-have | A hard requirement; options that fail it are removed before scoring |
+| Parameter | An independent feature or choice that defines part of a solution |
 | Opportunity cost | What you give up by choosing one option over another |
 | PO (provocation) | A deliberately unreasonable statement used as a stepping stone to new ideas |
 | Pre-mortem | Imagining a project has failed in order to find its risks early |
@@ -35,6 +42,7 @@ Terms used across the guides, in alphabetical order.
 | Root cause | The underlying cause which, if fixed, prevents the problem from recurring |
 | Sensitivity check | Testing whether a result changes when inputs such as weights change slightly |
 | Stakeholder | A person or group affected by, or able to affect, a decision |
+| Synectics | A creativity method using analogies, developed by William J. J. Gordon |
 | Symptom | A visible sign of a problem, not its cause |
 | TOWS | Pairing SWOT quadrants into actions (strength + opportunity, and so on) |
 | Urgency | How soon something needs attention |

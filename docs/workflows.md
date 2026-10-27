@@ -80,6 +80,28 @@ Sequence: Inversion → Pre-mortem
 | Find failure modes | [Inversion](../methods/mental-models/inversion.md) | Rules that avoid obvious mistakes |
 | Test as a team | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) | Risks you had not thought of, with owners |
 
+## 7. From a vague complaint to tested ideas
+
+Sequence: How Might We → Brainwriting 6-3-5 → Crazy 8s → Decision Matrix
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Frame | [How Might We](../methods/ideation/how-might-we.md) | One to three open questions |
+| Diverge (words) | [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) | Dozens of written ideas without loud voices dominating |
+| Diverge (pictures) | [Crazy 8s](../methods/ideation/crazy-8s.md) | Concrete sketches of the strongest directions |
+| Choose | [Decision Matrix](../methods/decision-making/decision-matrix.md) | A ranked shortlist to prototype |
+
+## 8. Designing something with many choices
+
+Sequence: Mind Mapping → Morphological Analysis → Analogical Thinking → Decision Matrix
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Explore | [Mind Mapping](../methods/ideation/mind-mapping.md) | The parts of the problem and how they connect |
+| Structure | [Morphological Analysis](../methods/ideation/morphological-analysis.md) | A box of parameters and options |
+| Widen | [Analogical Thinking](../methods/ideation/analogical-thinking.md) | More options per row, borrowed from other fields |
+| Choose | [Decision Matrix](../methods/decision-making/decision-matrix.md) | The best combination, with reasons |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice

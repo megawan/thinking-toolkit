@@ -10,6 +10,12 @@ Find your situation, then open the method that fits. If several are listed, the 
 | I have something that works but want it better | [SCAMPER](../methods/ideation/scamper.md) |
 | People say "that is just how it works" | [First Principles](../methods/mental-models/first-principles.md) |
 | My plan feels vague | [Inversion](../methods/mental-models/inversion.md) |
+| I need a quick set of different designs | [Crazy 8s](../methods/ideation/crazy-8s.md) |
+| Loud voices dominate our brainstorms | [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) |
+| I have a problem from my field that others may have solved | [Analogical Thinking](../methods/ideation/analogical-thinking.md) |
+| The solution has several separate design choices | [Morphological Analysis](../methods/ideation/morphological-analysis.md) |
+| I have a pile of thoughts and need a picture | [Mind Mapping](../methods/ideation/mind-mapping.md) |
+| The problem is stated as a complaint | [How Might We](../methods/ideation/how-might-we.md) |
 
 ## Something went wrong
 
@@ -43,6 +49,8 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Find risks before the team commits | [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
 | Understand where we stand | [SWOT Analysis](../methods/strategy-and-risk/swot.md) |
 | Generate approaches | [Lateral Thinking](../methods/ideation/lateral-thinking.md) |
+| Explore the topic first | [Mind Mapping](../methods/ideation/mind-mapping.md) |
+| Frame the challenge | [How Might We](../methods/ideation/how-might-we.md) |
 
 ## The team is in a meeting
 
@@ -58,7 +66,7 @@ Find your situation, then open the method that fits. If several are listed, the 
 | Category | Methods |
 | --- | --- |
 | Root cause analysis | [Five Whys](../methods/root-cause/five-whys.md), [Fishbone Diagram](../methods/root-cause/fishbone.md) |
-| Idea generation | [Lateral Thinking](../methods/ideation/lateral-thinking.md), [SCAMPER](../methods/ideation/scamper.md) |
+| Idea generation | [Lateral Thinking](../methods/ideation/lateral-thinking.md), [SCAMPER](../methods/ideation/scamper.md), [Mind Mapping](../methods/ideation/mind-mapping.md), [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md), [Crazy 8s](../methods/ideation/crazy-8s.md), [Analogical Thinking](../methods/ideation/analogical-thinking.md), [Morphological Analysis](../methods/ideation/morphological-analysis.md), [How Might We](../methods/ideation/how-might-we.md) |
 | Decision making | [Decision Matrix](../methods/decision-making/decision-matrix.md), [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
 | Prioritisation | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md), [Pareto Analysis](../methods/prioritisation/pareto-analysis.md) |
 | Strategy and risk | [SWOT Analysis](../methods/strategy-and-risk/swot.md), [Pre-mortem](../methods/strategy-and-risk/pre-mortem.md) |
