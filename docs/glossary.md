@@ -8,28 +8,36 @@ Terms used across the guides, in alphabetical order.
 | Availability bias | Judging how common something is by how easily examples come to mind |
 | Affinity diagram | Grouping notes or insights by theme to find patterns |
 | After action review (AAR) | A short review right after an event comparing expectation with result |
+| Ad hominem | An attack on a person instead of on their argument |
 | Alternative | A different way of reaching the same goal, not a small variation of the same idea |
 | Analogy | A comparison between two things that share a structure, used to transfer a solution |
 | Balancing loop | A feedback loop that resists change and moves a system towards a target |
+| Argument map | A diagram of which statements support or object to a claim |
 | Anchoring | Relying too heavily on the first piece of information encountered |
 | Annuity factor | A multiplier that gives the present value of a steady yearly amount over several years at a given discount rate |
 | Base rate | How often something is true in the general population of similar cases |
 | Assumption | A belief taken for granted without checking it |
 | Biomimicry | Taking design solutions from nature |
+| Backing (Toulmin) | What certifies the warrant of an argument |
 | Benefit-cost ratio (BCR) | Present value of benefits divided by present value of costs; above 1 means benefits exceed costs |
 | Backcasting | Planning that starts from a desired future and works backwards to the present |
 | Bias (cognitive) | A systematic pattern in judgment that departs from careful reasoning |
 | Business model | How an organisation creates, delivers and captures value |
 | Blame-free review | A review that looks at the system and decisions, not at who to blame |
+| Burden of proof | The obligation to support a claim with evidence |
 | Brainstorming | Generating many ideas without judging them, then evaluating afterwards |
 | Brainwriting | Generating ideas in writing instead of aloud; see [Brainwriting 6-3-5](../methods/ideation/brainwriting-635.md) |
 | Causal loop diagram | A diagram of variables linked by arrows with + or - signs, used to show feedback |
 | Channel | The way a business reaches and serves its customers |
 | Cause and effect diagram | Another name for the [Fishbone Diagram](../methods/root-cause/fishbone.md) |
 | Confidence (in RICE) | A percentage showing how sure you are about the estimates behind a score |
+| Circular reasoning | Assuming the conclusion in the premises |
 | Calibration | How closely your confidence matches how often you are right |
+| Confounder | A third factor that influences both of two correlated variables |
 | Confirmation bias | Favouring information that supports what you already believe |
+| Controlled trial | A test in which a treatment group is compared with a comparison group; randomised if chance decides who is in which |
 | Customer segment | A group of customers with similar needs, behaviours or characteristics |
+| Correlation | Two variables tending to move together, without implying cause |
 | Convention | A habit or standard way of doing things, which may not be a fact |
 | Criteria | The factors by which options are judged in a decision |
 | Cost-benefit analysis | Comparing the total costs and benefits of an option, usually in money and over time |
@@ -45,11 +53,14 @@ Terms used across the guides, in alphabetical order.
 | Expected value (EV) | The probability-weighted average of the possible outcomes of a choice |
 | Empathy map | A canvas for what a person says, thinks, does and feels |
 | Feedback loop | A circle of cause and effect in which a change comes back to affect its own cause |
+| Falsifiable | Able, at least in principle, to be shown wrong by some observation |
 | First principle | A basic fact that cannot be reduced further |
 | HMW (How Might We) | A question format that frames a challenge openly; see [How Might We](../methods/ideation/how-might-we.md) |
 | Gain (customer) | An outcome or benefit a customer wants |
+| Grounds (Toulmin) | The facts or evidence a claim rests on |
 | Hanlon's razor | Do not assume malice where neglect or error is enough to explain something |
 | Hindsight bias | Believing after the fact that an outcome was predictable |
+| Fallacy | Faulty reasoning in an argument, formal or informal |
 | Groupthink | A group's drive for agreement overriding honest assessment |
 | Heuristic | A mental shortcut that is usually good enough but can fail predictably |
 | Jargon | Specialised words that hide whether you really understand an idea |
@@ -76,6 +87,7 @@ Terms used across the guides, in alphabetical order.
 | OODA loop | Observe, orient, decide, act: a repeating decision cycle developed by John Boyd |
 | Objective (in OKR) | An inspiring statement of what you want to achieve in a period |
 | Prime directive (retrospective) | The assumption that everyone did the best they could with what they knew at the time |
+| Post hoc | Assuming that because B followed A, A caused B |
 | Order of magnitude | A rough size by factors of ten |
 | Opportunity cost | What you give up by choosing one option over another |
 | One-way door / two-way door | A decision that is hard to reverse versus one that is easy to reverse |
@@ -86,7 +98,9 @@ Terms used across the guides, in alphabetical order.
 | Posterior / prior | Your belief after / before considering new evidence |
 | Prototype | A cheap, rough version of an idea made to test it |
 | Prioritisation | Deciding what to do first, and what not to do |
+| Rebuttal (Toulmin) | A condition under which the claim would not hold |
 | Red team | A group assigned to attack a plan as an adversary would |
+| Qualifier (Toulmin) | A word showing how strong a claim is, such as probably |
 | Provocation | See PO |
 | Retrospective | A regular team meeting to look back and agree on improvements |
 | Reinforcing loop | A feedback loop that amplifies change, producing growth or collapse |
@@ -100,6 +114,7 @@ Terms used across the guides, in alphabetical order.
 | Stretch goal | An ambitious target that may not be fully reached |
 | Steel man / straw man | The strongest, fairest version of an argument versus a weak distortion of it |
 | Substitute | A different product that meets the same need |
+| Straw man (fallacy) | Misrepresenting a position, then refuting the distortion |
 | Stakeholder | A person or group affected by, or able to affect, a decision |
 | Synectics | A creativity method using analogies, developed by William J. J. Gordon |
 | Socratic questioning | Examining a claim by asking disciplined questions |
@@ -109,6 +124,7 @@ Terms used across the guides, in alphabetical order.
 | Symptom | A visible sign of a problem, not its cause |
 | TOWS | Pairing SWOT quadrants into actions (strength + opportunity, and so on) |
 | User journey map | A timeline of what a person does, thinks and feels while reaching a goal |
+| Warrant (Toulmin) | The statement that authorises the move from grounds to claim |
 | Urgency | How soon something needs attention |
 | Value proposition | The value an offer promises to a specific customer segment |
 | Vital few | The small number of causes behind most of an effect |
