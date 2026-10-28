@@ -269,6 +269,27 @@ Sequence: Wheel of Life → SMART Goals → Eisenhower Matrix
 | Set goals | [SMART Goals](../methods/planning/smart-goals.md) | Clear goals for one or two areas |
 | Make time | [Eisenhower Matrix](../methods/prioritisation/eisenhower-matrix.md) | Calendar slots for the important, not urgent work |
 
+## 25. Evaluating a claim
+
+Sequence: Argument Mapping and Toulmin Model → Logical Fallacies → Burden of Proof → Falsifiability
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Lay it out | [Argument Mapping and Toulmin Model](../methods/critical-thinking/argument-mapping-and-toulmin.md) | Claim, grounds, warrant and rebuttals in view |
+| Check the reasoning | [Logical Fallacies](../methods/critical-thinking/logical-fallacies.md) | Flaws named in plain words |
+| Ask for support | [Burden of Proof](../methods/critical-thinking/burden-of-proof.md) | What the claimant must show, and how much |
+| Make it testable | [Falsifiability](../methods/critical-thinking/falsifiability.md) | A version of the claim that evidence can bear on |
+
+## 26. Did the change cause the result?
+
+Sequence: Correlation vs Causation → Falsifiability → Bayesian Thinking
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Check the cause | [Correlation vs Causation](../methods/critical-thinking/correlation-vs-causation.md) | Alternative explanations and a comparison group |
+| Design the test | [Falsifiability](../methods/critical-thinking/falsifiability.md) | A prediction that could fail, with criteria set in advance |
+| Update belief | [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md) | A revised probability after the result |
+
 ## Tips
 
 - Do not run every method on every problem; two or three usually suffice

@@ -54,6 +54,11 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Feynman Technique | Richard Feynman, *The Feynman Lectures on Physics* (1963) for his approach to explaining; the four-step method is a popular summary, not Feynman's own published method |
 | Wheel of Life | Widely used in coaching; its origin is often attributed to Paul J. Meyer in the 1960s |
 | Decision Journal | Peter Drucker, "Managing Oneself", *Harvard Business Review* (1999), on feedback analysis; Annie Duke, *Thinking in Bets* (2018) |
+| Logical Fallacies | Aristotle, *Sophistical Refutations*; Richard Whately, *Elements of Logic*; C. L. Hamblin, *Fallacies* (1970) |
+| Argument Mapping and Toulmin Model | Stephen Toulmin, *The Uses of Argument* (1958) |
+| Falsifiability | Karl Popper, *Logik der Forschung* (1934), English edition *The Logic of Scientific Discovery* (1959) |
+| Burden of Proof | Bertrand Russell, "Is There a God?" (written 1952, published after his death), which contains the teapot analogy |
+| Correlation vs Causation | Austin Bradford Hill, "The Environment and Disease: Association or Causation?" (1965) |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |
 | Inversion | Charlie Munger, talks collected in *Poor Charlie's Almanack* (2005) |
