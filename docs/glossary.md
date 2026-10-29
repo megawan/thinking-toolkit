@@ -11,6 +11,7 @@ Terms used across the guides, in alphabetical order.
 | Ad hominem | An attack on a person instead of on their argument |
 | Alternative | A different way of reaching the same goal, not a small variation of the same idea |
 | Analogy | A comparison between two things that share a structure, used to transfer a solution |
+| Base rate neglect | Ignoring how common something is to begin with when judging evidence |
 | Balancing loop | A feedback loop that resists change and moves a system towards a target |
 | Argument map | A diagram of which statements support or object to a claim |
 | Anchoring | Relying too heavily on the first piece of information encountered |
@@ -34,6 +35,7 @@ Terms used across the guides, in alphabetical order.
 | Circular reasoning | Assuming the conclusion in the premises |
 | Calibration | How closely your confidence matches how often you are right |
 | Confounder | A third factor that influences both of two correlated variables |
+| Composition / division (fallacies) | Assuming what is true of parts is true of the whole, or the reverse |
 | Confirmation bias | Favouring information that supports what you already believe |
 | Controlled trial | A test in which a treatment group is compared with a comparison group; randomised if chance decides who is in which |
 | Customer segment | A group of customers with similar needs, behaviours or characteristics |
@@ -53,6 +55,7 @@ Terms used across the guides, in alphabetical order.
 | Expected value (EV) | The probability-weighted average of the possible outcomes of a choice |
 | Empathy map | A canvas for what a person says, thinks, does and feels |
 | Feedback loop | A circle of cause and effect in which a change comes back to affect its own cause |
+| Gambler's fallacy | Believing that past independent outcomes change the chances of the next one |
 | Falsifiable | Able, at least in principle, to be shown wrong by some observation |
 | First principle | A basic fact that cannot be reduced further |
 | HMW (How Might We) | A question format that frames a challenge openly; see [How Might We](../methods/ideation/how-might-we.md) |
@@ -64,6 +67,7 @@ Terms used across the guides, in alphabetical order.
 | Groupthink | A group's drive for agreement overriding honest assessment |
 | Heuristic | A mental shortcut that is usually good enough but can fail predictably |
 | Jargon | Specialised words that hide whether you really understand an idea |
+| Goalposts (moving the) | Changing the standard of proof after it has been met |
 | Hat (thinking hat) | One of six thinking modes in [Six Thinking Hats](../methods/decision-making/six-thinking-hats.md) |
 | Hindsight | Seeing why something happened after the fact; a pre-mortem borrows it before the fact |
 | Net present value (NPV) | The value in today's money of all future benefits minus costs |
@@ -101,20 +105,24 @@ Terms used across the guides, in alphabetical order.
 | Rebuttal (Toulmin) | A condition under which the claim would not hold |
 | Red team | A group assigned to attack a plan as an adversary would |
 | Qualifier (Toulmin) | A word showing how strong a claim is, such as probably |
+| Prosecutor's fallacy | Confusing the chance of the evidence if innocent with the chance of innocence given the evidence |
 | Provocation | See PO |
 | Retrospective | A regular team meeting to look back and agree on improvements |
 | Reinforcing loop | A feedback loop that amplifies change, producing growth or collapse |
 | Persona | A fictional but research-based profile of a type of user |
 | Resulting | Judging a decision only by its outcome, ignoring luck |
+| Regression to the mean | The tendency of extreme results to be followed by less extreme ones |
 | Reframing | Restating a problem from another level or point of view |
 | Reach (in RICE) | How many people or events an item affects in a period |
 | Root cause | The underlying cause which, if fixed, prevents the problem from recurring |
 | SMART | Specific, Measurable, Achievable, Relevant, Time-bound: a checklist for goals |
+| Simpson's paradox | A trend in each group that reverses when the groups are combined |
 | Sensitivity check | Testing whether a result changes when inputs such as weights change slightly |
 | Stretch goal | An ambitious target that may not be fully reached |
 | Steel man / straw man | The strongest, fairest version of an argument versus a weak distortion of it |
 | Substitute | A different product that meets the same need |
 | Straw man (fallacy) | Misrepresenting a position, then refuting the distortion |
+| Special pleading | Applying a rule to others but claiming an exception without a reason |
 | Stakeholder | A person or group affected by, or able to affect, a decision |
 | Synectics | A creativity method using analogies, developed by William J. J. Gordon |
 | Socratic questioning | Examining a claim by asking disciplined questions |

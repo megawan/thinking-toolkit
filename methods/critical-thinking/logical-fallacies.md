@@ -109,6 +109,7 @@ Showing that an argument contains a fallacy does not show that its conclusion is
 
 ## Related
 
+- [Statistical and Rhetorical Fallacies](statistical-and-rhetorical-fallacies.md): a second catalogue covering numbers, rhetorical tricks and formal errors
 - [Cognitive Biases](cognitive-biases.md): the thinking habits behind many fallacies
 - [Steel-manning](steel-manning.md): the opposite of the straw man
 - [Argument Mapping and Toulmin Model](argument-mapping-and-toulmin.md): lay out an argument to find gaps
