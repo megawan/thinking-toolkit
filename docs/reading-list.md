@@ -58,6 +58,7 @@ Sources behind the methods and good places to go deeper. Check publication detai
 | Argument Mapping and Toulmin Model | Stephen Toulmin, *The Uses of Argument* (1958) |
 | Falsifiability | Karl Popper, *Logik der Forschung* (1934), English edition *The Logic of Scientific Discovery* (1959) |
 | Burden of Proof | Bertrand Russell, "Is There a God?" (written 1952, published after his death), which contains the teapot analogy |
+| Statistical and Rhetorical Fallacies | Gerd Gigerenzer, *Calculated Risks* (2002), on reading probabilities and natural frequencies; C. L. Hamblin, *Fallacies* (1970) |
 | Correlation vs Causation | Austin Bradford Hill, "The Environment and Disease: Association or Causation?" (1965) |
 | Pre-mortem | Gary Klein, "Performing a Project Premortem", *Harvard Business Review* (September 2007) |
 | Eisenhower Matrix | Stephen R. Covey, *The 7 Habits of Highly Effective People* (1989), which popularised the urgent and important matrix; Eisenhower's 1954 remark on the important and the urgent is the usual starting point |

@@ -280,6 +280,16 @@ Sequence: Argument Mapping and Toulmin Model → Logical Fallacies → Burden of
 | Ask for support | [Burden of Proof](../methods/critical-thinking/burden-of-proof.md) | What the claimant must show, and how much |
 | Make it testable | [Falsifiability](../methods/critical-thinking/falsifiability.md) | A version of the claim that evidence can bear on |
 
+## 27. Checking a claim built on numbers
+
+Sequence: Statistical and Rhetorical Fallacies → Correlation vs Causation → Bayesian Thinking
+
+| Step | Method | Output |
+| --- | --- | --- |
+| Check the numbers | [Statistical and Rhetorical Fallacies](../methods/critical-thinking/statistical-and-rhetorical-fallacies.md) | Base rates, samples and independence questioned |
+| Check the cause | [Correlation vs Causation](../methods/critical-thinking/correlation-vs-causation.md) | Alternative explanations and a comparison |
+| Update belief | [Bayesian Thinking](../methods/mental-models/bayesian-thinking.md) | A revised probability given the evidence |
+
 ## 26. Did the change cause the result?
 
 Sequence: Correlation vs Causation → Falsifiability → Bayesian Thinking
